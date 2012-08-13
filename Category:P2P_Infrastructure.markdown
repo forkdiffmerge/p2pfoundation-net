@@ -832,66 +832,13 @@ safety. Version 0.2.0, a downloadable .pdf, can be found there [http://goo.gl/Su
 
 [Category][340]: [P2P Domains][341]
 
-##### Personal tools
-
-* [Log in / create account][1]
-
-##### Namespaces
-
-* [Category][339]
-* [Discussion][1]
-
-##### 
-Variants[][342]
-
-##### Views
-
-* [Read][339]
-* [View source][1]
-* [View history][1]
-
-##### 
-Actions[][342]
-
-##### Search
-
-[][343]
-
-##### p2pfoundation
-
-* [Wiki Main Page][343]
-* [Wiki community][344]
-* [Blog][345]
-* [del.icio.us][346]
-
-##### Navigation
-
-* [Recent changes][347]
-* [Random page][348]
-* [Help][349]
-* [Donations][350]
-
-##### Toolbox
-
-* [What links here][351]
-* [Related changes][352]
-* [Special pages][353]
-* [Printable version][1]
-* [Permanent link][1]
-
-  
-
-##### Share this content
-
-[![Bookmark and Share][354]][355]
-
 ----
 
 This page was forked with permission from [http://p2pfoundation.net/Category:P2P_Infrastructure][339]
 
 ----
 
-[![Attribution-ShareAlike 3.0 Unported][356]][357]
+[![Attribution-ShareAlike 3.0 Unported][342]][343]
 
 [1]: 
 [2]: #mw-head
@@ -1234,19 +1181,5 @@ This page was forked with permission from [http://p2pfoundation.net/Category:P2P
 [339]: http://p2pfoundation.net/Category:P2P_Infrastructure
 [340]: http://p2pfoundation.net/Special:Categories (Special:Categories)
 [341]: http://p2pfoundation.net/Category:P2P_Domains (Category:P2P Domains)
-[342]: #
-[343]: http://p2pfoundation.net/The_Foundation_for_P2P_Alternatives (Visit the main page)
-[344]: http://p2pfoundation.net/P2P_Foundation:Community_portal
-[345]: http://blog.p2pfoundation.net/
-[346]: http://del.icio.us/mbauwens
-[347]: http://p2pfoundation.net/Special:RecentChanges (The list of recent changes in the wiki [r])
-[348]: http://p2pfoundation.net/Special:Random (Load a random page [x])
-[349]: http://p2pfoundation.net/Help:Contents (The place to find out)
-[350]: http://p2pfoundation.net/P2P_Foundation:Site_support
-[351]: http://p2pfoundation.net/Special:WhatLinksHere/Category:P2P_Infrastructure (List of all wiki pages that link here [j])
-[352]: http://p2pfoundation.net/Special:RecentChangesLinked/Category:P2P_Infrastructure (Recent changes in pages linked from this page [k])
-[353]: http://p2pfoundation.net/Special:SpecialPages (List of all special pages [q])
-[354]: http://s7.addthis.com/static/btn/lg-share-en.gif
-[355]: http://www.addthis.com/bookmark.php?v=20
-[356]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-[357]: http://creativecommons.org/licenses/by-sa/3.0/
+[342]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+[343]: http://creativecommons.org/licenses/by-sa/3.0/
