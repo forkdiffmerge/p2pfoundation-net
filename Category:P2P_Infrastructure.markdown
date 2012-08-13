@@ -1,3 +1,5 @@
+
+
 [][1]
 
 # Category:P2P Infrastructure
@@ -824,276 +826,72 @@ safety. Version 0.2.0, a downloadable .pdf, can be found there [http://goo.gl/Su
 [↑][337] Source of quote and table: [http://en.wikipedia.org/wiki/OSI_model][338]
 
   
- (previous 200) ([next 200][1])
+ (previous 200) ([next 200][1]) (previous 200) ([next 200][1])
 
-## Subcategories
+ Retrieved from "[http://p2pfoundation.net/Category:P2P_Infrastructure][339]" 
 
-This category has the following subcategory, out of 2 total. 
+[Category][340]: [P2P Domains][341]
 
-### A
+##### Personal tools
 
-* [Category:Application Layer][339]
+* [Log in / create account][1]
 
-## Pages in category "P2P Infrastructure"
+##### Namespaces
 
-The following 199 pages are in this category, out of 497 total. 
+* [Category][339]
+* [Discussion][1]
 
-|
+##### 
+Variants[][342]
 
-### 1
+##### Views
 
-* [100 Point Open Source Projects][340]
-* [15Hack][341]
+* [Read][339]
+* [View source][1]
+* [View history][1]
 
-### A
+##### 
+Actions[][342]
 
-* [ALabs][342]
-* [Aaron Swartz on the Shift from Centralized Systems to Networks][343]
-* [Abundant Exchange][344]
-* [Access][345]
-* [Activity Standards][346]
-* [Ad Hoc Routing Protocols][347]
-* [Adam Black on Providing Internet Bandwidth Through Collaborative Consumption][348]
-* [Adam Fisk][349]
-* [Agora CC][350]
-* [Aidphone Flybox][231]
-* [Al Cano Santana on Guifi's Autonomous Internet Infrastructure in Catalonia][351]
-* [Alfredo Lopez on Progressive Providers][352]
-* [Andy Oram on Free and Open Cloud Computing][353]
-* [Annotation Tools][354]
-* [Anon Plus][177]
-* [Anon+][355]
-* [Anonymity][356]
-* [Anonymity Tools][357]
-* [Application Content Infrastructure][358]
-* [Appropriate Technology Villages][359]
-* [Aram Sinnreich on MondoNet as a Truly Independent Internet][79]
-* [Aram Sinnreich on the Next Generation Independent Internet][360]
-* [Around Me][361]
-* [Augmented Social Networks][267]
-* [Authoritarian and Democratic Technics][362]
-* [Autonomous Internet Road Map][62]
-* [Autonomous Systems - Internet][363]
-* [Autonomous Tech Collectives][364]
+##### Search
 
-### B
+[][343]
 
-* [BATMAN][365]
-* [Bazar][366]
-* [Better Means][367]
-* [Beyond TCP/IP][368]
-* [Bitcoin][93]
-* [Bogota Mesh][369]
-* [Book Liberator][370]
-* [Bram Cohen on the Creation of BitTorrent][371]
-* [Brave New Software][304]
-* [Briar][372]
-* [Buy This Satellite][373]
+##### p2pfoundation
 
-### C
+* [Wiki Main Page][343]
+* [Wiki community][344]
+* [Blog][345]
+* [del.icio.us][346]
 
-* [CASH Music][374]
-* [Certification Services for Identity Assurance][375]
-* [Characteristics of Free and Open Infrastructures Needed for Open Online Collaboration][67]
-* [Charles Wyble][376]
-* [Circular Multilateral Barter][377]
-* [Citizen-Owned WiFi Meshwork][378]
-* [Citizens Media][379]
-* [City Domain Names][380]
-* [Civil Society Internet Governance Caucus][381]
-* [Cloud of Solutions][382]
-* [Cloud-Based Identity Projects][383]
-* [Collaboration Platform Projects][384]
-* [Collective Awareness Platforms][385]
-* [Comingled Code][386]
-* [Commotion][186]
-* [Commotion Wireless][387]
-* [Communication Commons][388]
-* [Community Broadband Movement][389]
-* [Community Driven Air Quality Sensor Network][390]
-* [Community Exchange Systems][391]
-* [Community Forge][392]
-* [Community Informatics in Brazil][393]
-* [Community Mesh Networking Movement][394]
-* [Community Sufficiency Technologies][395]
-* [Community Tools][396]
-* [Community Wireless][397]
+##### Navigation
 
-|
+* [Recent changes][347]
+* [Random page][348]
+* [Help][349]
+* [Donations][350]
 
-### C cont.
+##### Toolbox
 
-* [Community Wireless Networking][398]
-* [Comparison of Micro-Blogging Services][217]
-* [Complementary Currency Open Source Software in 2010][399]
-* [Complementary Currency Software][400]
-* [Computer-Network Based Democracy][401]
-* [Computer-Supported Social Creativity][402]
-* [Comunes][403]
-* [Conditions for a True Distributed Internet][404]
-* [Connect Me][405]
-* [Connect, Collaborate, Change][406]
-* [Consensus Journals][407]
-* [Consent of the Networked][408]
-* [ContactCon][59]
-* [Content-Centric Networking][172]
-* [Cook Report on Internet Protocol][323]
-* [Creating Sustainable Societies][409]
-* [Creating the Commons through a Contemporary Agora][410]
-* [Criticism of Facebook][411]
-* [Customer-Build Network Infrastructures][412]
-* [Customer-Controlled Networks][413]
-* [Cyberception][414]
-* [Cyclos][415]
+* [What links here][351]
+* [Related changes][352]
+* [Special pages][353]
+* [Printable version][1]
+* [Permanent link][1]
 
-### D
+  
 
-* [DIY Mesh Guide][416]
-* [Daniel Goleman and Clay Shirky on Socially Intelligent Computing][417]
-* [Darknet Project][418]
-* [David Orban and Roberto Ostinelli on Open Spime][419]
-* [Decentralized Information Group][420]
-* [Decentralized Social Networking Projects][421]
-* [Defining Infrastructure and Commons Management][422]
-* [Delay-Tolerant Networking][423]
-* [Democratic Access to Broadband][424]
-* [Design principles of the Recursive InterNetwork Architecture][425]
-* [Diaspora][94]
-* [Digital Bill of Rights][426]
-* [Directory of Individuals, Collectives and Organizations that Act for the Common Good][427]
-* [Distributed Open Source Technology Design Repositories][428]
-* [Distributed Social Network Projects][208]
-* [Distributed Social Networks][429]
-* [Distributed Surveillance Network][430]
-* [Distribution Technologies][431]
-* [Dot-P2P][95]
-* [Dynebolic][432]
+##### Share this content
 
-### E
-
-* [EBrainPool][433]
-* [EPIC Online Guide to Practical Privacy Tools][286]
-* [Earth OS][434]
-* [Eben Moglen on Freedom in the Cloud][435]
-* [Eben Moglen on the Four Forces Arrayed Against Internet Freedom and How We Can Fight Them][63]
-* [Economics as a Science of Infrastructure][261]
-* [Electric Embers Cooperative][436]
-* [Electronic Countermeasures][437]
-* [Everyone's Guide to Bypassing Internet Censorship][293]
-* [Evolution of Tor against Censorship Efforts by Governments and Corporations][438]
-* [Examination of Peer-to-Peer Signal-Sharing Communities][439]
-* [Examination of Peer-to-Peer Signal-Sharing Communities that Create Their Own Internet Access][440]
-
-### F
-
-* [FLOAmerica][441]
-* [FLOSS Manual for Circumvention Tools][282]
-* [FOSS Organizations Directory][442]
-* [FabFi][443]
-* [Facebook][444]
-* [Federated Blog][445]
-* [Federated General Assembly][446]
-* [Federated Search][447]
-* [Federated Social Networks][448]
-* [Federated Social Web][449]
-* [Federated Wiki][450]
-* [FidoNet][451]
-* [Filmmaking 2.0][452]
-
-|
-
-### F cont.
-
-* [FlashLinq][453]
-* [Forban][454]
-* [Fork Freedom][260]
-* [Forking the Internet][259]
-* [Four Characteristics of the Age of Connection][455]
-* [Four Design Principles for True P2P Networks][70]
-* [Free Identity Foundation][456]
-* [Free Internet][325]
-* [Free Network Definition][457]
-* [Free Network Movement][255]
-* [Free the Network][458]
-* [FreeGate][178]
-* [Freedom Box][96]
-* [Freedom Box Foundation][98]
-* [Freedom Box Project][459]
-* [Freedom Conditions for Cloud Computing][460]
-* [Freedombox][461]
-* [Freenet][99]
-* [Freenet Movement][462]
-* [Frontline SMS][463]
-* [Future Forward Institute][307]
-
-### G
-
-* [GETS Plus][464]
-* [GNU Call][465]
-* [GNU Free Call][233]
-* [GNU Project][309]
-* [GNU Radio][466]
-* [GNU SIP Witch][467]
-* [GNUnet][100]
-* [GTA04][468]
-* [Geoloqi][469]
-* [GitHub][470]
-* [GitHub and Occupy][471]
-* [Global Chokepoints][472]
-* [Global Lambda Integrated Facility][473]
-* [Global Politics of Interoperability][474]
-* [Global Square][475]
-* [Globalisation of Internet Governance][476]
-* [Globalization of Internet Governance][477]
-* [Glocal Infrastructures of Cooperation for the Common Good][478]
-* [Glossary][479]
-* [Goal-Based Networking][480]
-* [Google Apps for Government][481]
-* [Gordon Cook on the Fragility of the Current Internet][71]
-* [Graceful Degradation][482]
-* [Greenfield Vision of Autonomous Internet][483]
-* [Guide to Mobile Security for Citizen Journalists][484]
-
-### H
-
-* [HOurworld][485]
-* [HTTP 402][486]
-* [Hidden Physical Infrastructure of the Internet][487]
-* [How Open Sensor Networks Will Affect Journalism][488]
-* [How a Bitcoin Transaction Works][489]
-* [Html 5][490]
-* [Hybrid Applications between P2P Networks and Social Networks][491]
-* [Hyperdistribution][492]
-* [Hyperintelligence][493]
-* [Hypernet][494]
-
-### I
-
-* [I2P][495]
-* [ID3 Workshop on Trust Frameworks and Self-Governance][496]
-* [IEEE 802.22][497]
-* [IPv6][498]
-* [ISP Watch][499]
-* [Identity][500]
-* [Identity Verification and Management][501]
-* [Increasing Scope of Accessability of Technology][502]
-* [Info-Energy Commons][503]
-
-||
-
-(previous 200) ([next 200][1])
-
- Retrieved from "[http://p2pfoundation.net/Category:P2P_Infrastructure][504]" 
-
-[Category][505]: [P2P Domains][506]
+[![Bookmark and Share][354]][355]
 
 ----
 
-This page was forked with permission from [http://p2pfoundation.net/Category:P2P_Infrastructure][504]
+This page was forked with permission from [http://p2pfoundation.net/Category:P2P_Infrastructure][339]
 
 ----
 
-[![Attribution-ShareAlike 3.0 Unported][507]][508]
+[![Attribution-ShareAlike 3.0 Unported][356]][357]
 
 [1]: 
 [2]: #mw-head
@@ -1228,7 +1026,7 @@ This page was forked with permission from [http://p2pfoundation.net/Category:P2P
 [131]: http://plexus.relationalspace.org/
 [132]: ?title=Retro_Share&action=edit&redlink=1 (Retro Share (page does not exist))
 [133]: http://retroshare.sourceforge.net/
-[134]: ?title=Seeks_Project&action=edit&redlink=1 (Seeks Project (page does not exist))
+[134]: http://p2pfoundation.net/Seeks_Project (Seeks Project)
 [135]: http://www.seeks-project.info/
 [136]: ?title=Sovereign_Computing_Group&action=edit&redlink=1 (Sovereign Computing Group (page does not exist))
 [137]: http://groups.google.com/group/sovereigncomputing
@@ -1433,173 +1231,22 @@ This page was forked with permission from [http://p2pfoundation.net/Category:P2P
 [336]: http://goo.gl/SuY0f
 [337]: #_ref-0
 [338]: http://en.wikipedia.org/wiki/OSI_model
-[339]: http://p2pfoundation.net/Category:Application_Layer (Category:Application Layer)
-[340]: http://p2pfoundation.net/100_Point_Open_Source_Projects (100 Point Open Source Projects)
-[341]: http://p2pfoundation.net/15Hack (15Hack)
-[342]: http://p2pfoundation.net/ALabs (ALabs)
-[343]: http://p2pfoundation.net/Aaron_Swartz_on_the_Shift_from_Centralized_Systems_to_Networks (Aaron Swartz on the Shift from Centralized Systems to Networks)
-[344]: http://p2pfoundation.net/Abundant_Exchange (Abundant Exchange)
-[345]: http://p2pfoundation.net/Access (Access)
-[346]: http://p2pfoundation.net/Activity_Standards (Activity Standards)
-[347]: http://p2pfoundation.net/Ad_Hoc_Routing_Protocols (Ad Hoc Routing Protocols)
-[348]: http://p2pfoundation.net/Adam_Black_on_Providing_Internet_Bandwidth_Through_Collaborative_Consumption (Adam Black on Providing Internet Bandwidth Through Collaborative Consumption)
-[349]: http://p2pfoundation.net/Adam_Fisk (Adam Fisk)
-[350]: http://p2pfoundation.net/Agora_CC (Agora CC)
-[351]: http://p2pfoundation.net/Al_Cano_Santana_on_Guifi%27s_Autonomous_Internet_Infrastructure_in_Catalonia (Al Cano Santana on Guifi's Autonomous Internet Infrastructure in Catalonia)
-[352]: http://p2pfoundation.net/Alfredo_Lopez_on_Progressive_Providers (Alfredo Lopez on Progressive Providers)
-[353]: http://p2pfoundation.net/Andy_Oram_on_Free_and_Open_Cloud_Computing (Andy Oram on Free and Open Cloud Computing)
-[354]: http://p2pfoundation.net/Annotation_Tools (Annotation Tools)
-[355]: http://p2pfoundation.net/Anon%2B (Anon+)
-[356]: http://p2pfoundation.net/Anonymity (Anonymity)
-[357]: http://p2pfoundation.net/Anonymity_Tools (Anonymity Tools)
-[358]: http://p2pfoundation.net/Application_Content_Infrastructure (Application Content Infrastructure)
-[359]: http://p2pfoundation.net/Appropriate_Technology_Villages (Appropriate Technology Villages)
-[360]: http://p2pfoundation.net/Aram_Sinnreich_on_the_Next_Generation_Independent_Internet (Aram Sinnreich on the Next Generation Independent Internet)
-[361]: http://p2pfoundation.net/Around_Me (Around Me)
-[362]: http://p2pfoundation.net/Authoritarian_and_Democratic_Technics (Authoritarian and Democratic Technics)
-[363]: http://p2pfoundation.net/Autonomous_Systems_-_Internet (Autonomous Systems - Internet)
-[364]: http://p2pfoundation.net/Autonomous_Tech_Collectives (Autonomous Tech Collectives)
-[365]: http://p2pfoundation.net/BATMAN (BATMAN)
-[366]: http://p2pfoundation.net/Bazar (Bazar)
-[367]: http://p2pfoundation.net/Better_Means (Better Means)
-[368]: http://p2pfoundation.net/Beyond_TCP/IP (Beyond TCP/IP)
-[369]: http://p2pfoundation.net/Bogota_Mesh (Bogota Mesh)
-[370]: http://p2pfoundation.net/Book_Liberator (Book Liberator)
-[371]: http://p2pfoundation.net/Bram_Cohen_on_the_Creation_of_BitTorrent (Bram Cohen on the Creation of BitTorrent)
-[372]: http://p2pfoundation.net/Briar (Briar)
-[373]: http://p2pfoundation.net/Buy_This_Satellite (Buy This Satellite)
-[374]: http://p2pfoundation.net/CASH_Music (CASH Music)
-[375]: http://p2pfoundation.net/Certification_Services_for_Identity_Assurance (Certification Services for Identity Assurance)
-[376]: http://p2pfoundation.net/Charles_Wyble (Charles Wyble)
-[377]: http://p2pfoundation.net/Circular_Multilateral_Barter (Circular Multilateral Barter)
-[378]: http://p2pfoundation.net/Citizen-Owned_WiFi_Meshwork (Citizen-Owned WiFi Meshwork)
-[379]: http://p2pfoundation.net/Citizens_Media (Citizens Media)
-[380]: http://p2pfoundation.net/City_Domain_Names (City Domain Names)
-[381]: http://p2pfoundation.net/Civil_Society_Internet_Governance_Caucus (Civil Society Internet Governance Caucus)
-[382]: http://p2pfoundation.net/Cloud_of_Solutions (Cloud of Solutions)
-[383]: http://p2pfoundation.net/Cloud-Based_Identity_Projects (Cloud-Based Identity Projects)
-[384]: http://p2pfoundation.net/Collaboration_Platform_Projects (Collaboration Platform Projects)
-[385]: http://p2pfoundation.net/Collective_Awareness_Platforms (Collective Awareness Platforms)
-[386]: http://p2pfoundation.net/Comingled_Code (Comingled Code)
-[387]: http://p2pfoundation.net/Commotion_Wireless (Commotion Wireless)
-[388]: http://p2pfoundation.net/Communication_Commons (Communication Commons)
-[389]: http://p2pfoundation.net/Community_Broadband_Movement (Community Broadband Movement)
-[390]: http://p2pfoundation.net/Community_Driven_Air_Quality_Sensor_Network (Community Driven Air Quality Sensor Network)
-[391]: http://p2pfoundation.net/Community_Exchange_Systems (Community Exchange Systems)
-[392]: http://p2pfoundation.net/Community_Forge (Community Forge)
-[393]: http://p2pfoundation.net/Community_Informatics_in_Brazil (Community Informatics in Brazil)
-[394]: http://p2pfoundation.net/Community_Mesh_Networking_Movement (Community Mesh Networking Movement)
-[395]: http://p2pfoundation.net/Community_Sufficiency_Technologies (Community Sufficiency Technologies)
-[396]: http://p2pfoundation.net/Community_Tools (Community Tools)
-[397]: http://p2pfoundation.net/Community_Wireless (Community Wireless)
-[398]: http://p2pfoundation.net/Community_Wireless_Networking (Community Wireless Networking)
-[399]: http://p2pfoundation.net/Complementary_Currency_Open_Source_Software_in_2010 (Complementary Currency Open Source Software in 2010)
-[400]: http://p2pfoundation.net/Complementary_Currency_Software (Complementary Currency Software)
-[401]: http://p2pfoundation.net/Computer-Network_Based_Democracy (Computer-Network Based Democracy)
-[402]: http://p2pfoundation.net/Computer-Supported_Social_Creativity (Computer-Supported Social Creativity)
-[403]: http://p2pfoundation.net/Comunes (Comunes)
-[404]: http://p2pfoundation.net/Conditions_for_a_True_Distributed_Internet (Conditions for a True Distributed Internet)
-[405]: http://p2pfoundation.net/Connect_Me (Connect Me)
-[406]: http://p2pfoundation.net/Connect,_Collaborate,_Change (Connect, Collaborate, Change)
-[407]: http://p2pfoundation.net/Consensus_Journals (Consensus Journals)
-[408]: http://p2pfoundation.net/Consent_of_the_Networked (Consent of the Networked)
-[409]: http://p2pfoundation.net/Creating_Sustainable_Societies (Creating Sustainable Societies)
-[410]: http://p2pfoundation.net/Creating_the_Commons_through_a_Contemporary_Agora (Creating the Commons through a Contemporary Agora)
-[411]: http://p2pfoundation.net/Criticism_of_Facebook (Criticism of Facebook)
-[412]: http://p2pfoundation.net/Customer-Build_Network_Infrastructures (Customer-Build Network Infrastructures)
-[413]: http://p2pfoundation.net/Customer-Controlled_Networks (Customer-Controlled Networks)
-[414]: http://p2pfoundation.net/Cyberception (Cyberception)
-[415]: http://p2pfoundation.net/Cyclos (Cyclos)
-[416]: http://p2pfoundation.net/DIY_Mesh_Guide (DIY Mesh Guide)
-[417]: http://p2pfoundation.net/Daniel_Goleman_and_Clay_Shirky_on_Socially_Intelligent_Computing (Daniel Goleman and Clay Shirky on Socially Intelligent Computing)
-[418]: http://p2pfoundation.net/Darknet_Project (Darknet Project)
-[419]: http://p2pfoundation.net/David_Orban_and_Roberto_Ostinelli_on_Open_Spime (David Orban and Roberto Ostinelli on Open Spime)
-[420]: http://p2pfoundation.net/Decentralized_Information_Group (Decentralized Information Group)
-[421]: http://p2pfoundation.net/Decentralized_Social_Networking_Projects (Decentralized Social Networking Projects)
-[422]: http://p2pfoundation.net/Defining_Infrastructure_and_Commons_Management (Defining Infrastructure and Commons Management)
-[423]: http://p2pfoundation.net/Delay-Tolerant_Networking (Delay-Tolerant Networking)
-[424]: http://p2pfoundation.net/Democratic_Access_to_Broadband (Democratic Access to Broadband)
-[425]: http://p2pfoundation.net/Design_principles_of_the_Recursive_InterNetwork_Architecture (Design principles of the Recursive InterNetwork Architecture)
-[426]: http://p2pfoundation.net/Digital_Bill_of_Rights (Digital Bill of Rights)
-[427]: http://p2pfoundation.net/Directory_of_Individuals,_Collectives_and_Organizations_that_Act_for_the_Common_Good (Directory of Individuals, Collectives and Organizations that Act for the Common Good)
-[428]: http://p2pfoundation.net/Distributed_Open_Source_Technology_Design_Repositories (Distributed Open Source Technology Design Repositories)
-[429]: http://p2pfoundation.net/Distributed_Social_Networks (Distributed Social Networks)
-[430]: http://p2pfoundation.net/Distributed_Surveillance_Network (Distributed Surveillance Network)
-[431]: http://p2pfoundation.net/Distribution_Technologies (Distribution Technologies)
-[432]: http://p2pfoundation.net/Dynebolic (Dynebolic)
-[433]: http://p2pfoundation.net/EBrainPool (EBrainPool)
-[434]: http://p2pfoundation.net/Earth_OS (Earth OS)
-[435]: http://p2pfoundation.net/Eben_Moglen_on_Freedom_in_the_Cloud (Eben Moglen on Freedom in the Cloud)
-[436]: http://p2pfoundation.net/Electric_Embers_Cooperative (Electric Embers Cooperative)
-[437]: http://p2pfoundation.net/Electronic_Countermeasures (Electronic Countermeasures)
-[438]: http://p2pfoundation.net/Evolution_of_Tor_against_Censorship_Efforts_by_Governments_and_Corporations (Evolution of Tor against Censorship Efforts by Governments and Corporations)
-[439]: http://p2pfoundation.net/Examination_of_Peer-to-Peer_Signal-Sharing_Communities (Examination of Peer-to-Peer Signal-Sharing Communities)
-[440]: http://p2pfoundation.net/Examination_of_Peer-to-Peer_Signal-Sharing_Communities_that_Create_Their_Own_Internet_Access (Examination of Peer-to-Peer Signal-Sharing Communities that Create Their Own Internet Access)
-[441]: http://p2pfoundation.net/FLOAmerica (FLOAmerica)
-[442]: http://p2pfoundation.net/FOSS_Organizations_Directory (FOSS Organizations Directory)
-[443]: http://p2pfoundation.net/FabFi (FabFi)
-[444]: http://p2pfoundation.net/Facebook (Facebook)
-[445]: http://p2pfoundation.net/Federated_Blog (Federated Blog)
-[446]: http://p2pfoundation.net/Federated_General_Assembly (Federated General Assembly)
-[447]: http://p2pfoundation.net/Federated_Search (Federated Search)
-[448]: http://p2pfoundation.net/Federated_Social_Networks (Federated Social Networks)
-[449]: http://p2pfoundation.net/Federated_Social_Web (Federated Social Web)
-[450]: http://p2pfoundation.net/Federated_Wiki (Federated Wiki)
-[451]: http://p2pfoundation.net/FidoNet (FidoNet)
-[452]: http://p2pfoundation.net/Filmmaking_2.0 (Filmmaking 2.0)
-[453]: http://p2pfoundation.net/FlashLinq (FlashLinq)
-[454]: http://p2pfoundation.net/Forban (Forban)
-[455]: http://p2pfoundation.net/Four_Characteristics_of_the_Age_of_Connection (Four Characteristics of the Age of Connection)
-[456]: http://p2pfoundation.net/Free_Identity_Foundation (Free Identity Foundation)
-[457]: http://p2pfoundation.net/Free_Network_Definition (Free Network Definition)
-[458]: http://p2pfoundation.net/Free_the_Network (Free the Network)
-[459]: http://p2pfoundation.net/Freedom_Box_Project (Freedom Box Project)
-[460]: http://p2pfoundation.net/Freedom_Conditions_for_Cloud_Computing (Freedom Conditions for Cloud Computing)
-[461]: http://p2pfoundation.net/Freedombox (Freedombox)
-[462]: http://p2pfoundation.net/Freenet_Movement (Freenet Movement)
-[463]: http://p2pfoundation.net/Frontline_SMS (Frontline SMS)
-[464]: http://p2pfoundation.net/GETS_Plus (GETS Plus)
-[465]: http://p2pfoundation.net/GNU_Call (GNU Call)
-[466]: http://p2pfoundation.net/GNU_Radio (GNU Radio)
-[467]: http://p2pfoundation.net/GNU_SIP_Witch (GNU SIP Witch)
-[468]: http://p2pfoundation.net/GTA04 (GTA04)
-[469]: http://p2pfoundation.net/Geoloqi (Geoloqi)
-[470]: http://p2pfoundation.net/GitHub (GitHub)
-[471]: http://p2pfoundation.net/GitHub_and_Occupy (GitHub and Occupy)
-[472]: http://p2pfoundation.net/Global_Chokepoints (Global Chokepoints)
-[473]: http://p2pfoundation.net/Global_Lambda_Integrated_Facility (Global Lambda Integrated Facility)
-[474]: http://p2pfoundation.net/Global_Politics_of_Interoperability (Global Politics of Interoperability)
-[475]: http://p2pfoundation.net/Global_Square (Global Square)
-[476]: http://p2pfoundation.net/Globalisation_of_Internet_Governance (Globalisation of Internet Governance)
-[477]: http://p2pfoundation.net/Globalization_of_Internet_Governance (Globalization of Internet Governance)
-[478]: http://p2pfoundation.net/Glocal_Infrastructures_of_Cooperation_for_the_Common_Good (Glocal Infrastructures of Cooperation for the Common Good)
-[479]: http://p2pfoundation.net/Glossary (Glossary)
-[480]: http://p2pfoundation.net/Goal-Based_Networking (Goal-Based Networking)
-[481]: http://p2pfoundation.net/Google_Apps_for_Government (Google Apps for Government)
-[482]: http://p2pfoundation.net/Graceful_Degradation (Graceful Degradation)
-[483]: http://p2pfoundation.net/Greenfield_Vision_of_Autonomous_Internet (Greenfield Vision of Autonomous Internet)
-[484]: http://p2pfoundation.net/Guide_to_Mobile_Security_for_Citizen_Journalists (Guide to Mobile Security for Citizen Journalists)
-[485]: http://p2pfoundation.net/HOurworld (HOurworld)
-[486]: http://p2pfoundation.net/HTTP_402 (HTTP 402)
-[487]: http://p2pfoundation.net/Hidden_Physical_Infrastructure_of_the_Internet (Hidden Physical Infrastructure of the Internet)
-[488]: http://p2pfoundation.net/How_Open_Sensor_Networks_Will_Affect_Journalism (How Open Sensor Networks Will Affect Journalism)
-[489]: http://p2pfoundation.net/How_a_Bitcoin_Transaction_Works (How a Bitcoin Transaction Works)
-[490]: http://p2pfoundation.net/Html_5 (Html 5)
-[491]: http://p2pfoundation.net/Hybrid_Applications_between_P2P_Networks_and_Social_Networks (Hybrid Applications between P2P Networks and Social Networks)
-[492]: http://p2pfoundation.net/Hyperdistribution (Hyperdistribution)
-[493]: http://p2pfoundation.net/Hyperintelligence (Hyperintelligence)
-[494]: http://p2pfoundation.net/Hypernet (Hypernet)
-[495]: http://p2pfoundation.net/I2P (I2P)
-[496]: http://p2pfoundation.net/ID3_Workshop_on_Trust_Frameworks_and_Self-Governance (ID3 Workshop on Trust Frameworks and Self-Governance)
-[497]: http://p2pfoundation.net/IEEE_802.22 (IEEE 802.22)
-[498]: http://p2pfoundation.net/IPv6 (IPv6)
-[499]: http://p2pfoundation.net/ISP_Watch (ISP Watch)
-[500]: http://p2pfoundation.net/Identity (Identity)
-[501]: http://p2pfoundation.net/Identity_Verification_and_Management (Identity Verification and Management)
-[502]: http://p2pfoundation.net/Increasing_Scope_of_Accessability_of_Technology (Increasing Scope of Accessability of Technology)
-[503]: http://p2pfoundation.net/Info-Energy_Commons (Info-Energy Commons)
-[504]: http://p2pfoundation.net/Category:P2P_Infrastructure
-[505]: http://p2pfoundation.net/Special:Categories (Special:Categories)
-[506]: http://p2pfoundation.net/Category:P2P_Domains (Category:P2P Domains)
-[507]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-[508]: http://creativecommons.org/licenses/by-sa/3.0/
+[339]: http://p2pfoundation.net/Category:P2P_Infrastructure
+[340]: http://p2pfoundation.net/Special:Categories (Special:Categories)
+[341]: http://p2pfoundation.net/Category:P2P_Domains (Category:P2P Domains)
+[342]: #
+[343]: http://p2pfoundation.net/The_Foundation_for_P2P_Alternatives (Visit the main page)
+[344]: http://p2pfoundation.net/P2P_Foundation:Community_portal
+[345]: http://blog.p2pfoundation.net/
+[346]: http://del.icio.us/mbauwens
+[347]: http://p2pfoundation.net/Special:RecentChanges (The list of recent changes in the wiki [r])
+[348]: http://p2pfoundation.net/Special:Random (Load a random page [x])
+[349]: http://p2pfoundation.net/Help:Contents (The place to find out)
+[350]: http://p2pfoundation.net/P2P_Foundation:Site_support
+[351]: http://p2pfoundation.net/Special:WhatLinksHere/Category:P2P_Infrastructure (List of all wiki pages that link here [j])
+[352]: http://p2pfoundation.net/Special:RecentChangesLinked/Category:P2P_Infrastructure (Recent changes in pages linked from this page [k])
+[353]: http://p2pfoundation.net/Special:SpecialPages (List of all special pages [q])
+[354]: http://s7.addthis.com/static/btn/lg-share-en.gif
+[355]: http://www.addthis.com/bookmark.php?v=20
+[356]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+[357]: http://creativecommons.org/licenses/by-sa/3.0/
